@@ -3,8 +3,8 @@
     [
         {
             "name": "CV",
-            "working_dir": "${project_path}/example",
-            "shell_cmd": "lualatex example.tex"
+            "working_dir": "${project_path}",
+            "shell_cmd": "mkdir -p build ; lualatex --output-directory=build --output-format=pdf cv.tex"
         }
     ],
     "folders":

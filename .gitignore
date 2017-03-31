@@ -1,4 +1,5 @@
 .DS_Store
+build/
 ./example/*.aux
 ./example/*.log
 *.acn
