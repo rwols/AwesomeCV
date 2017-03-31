@@ -1,0 +1,19 @@
+{
+    "build_systems":
+    [
+        {
+            "name": "CV",
+            "working_dir": "${project_path}/example",
+            "shell_cmd": "lualatex example.tex"
+        }
+    ],
+    "folders":
+    [
+        {
+            "path": "."
+        }
+    ],
+    "settings":
+    {
+    }
+}
