@@ -142,6 +142,10 @@
   \faTwitter & #1\\
 }
 
+\newcommand{\stackoverflow}[1]{
+  \faKeyboard & #1\\
+}
+
 \newcommand{\skype}[1]{
   \faSkype & #1\\
 }

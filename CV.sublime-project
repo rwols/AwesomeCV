@@ -15,5 +15,6 @@
     ],
     "settings":
     {
+        "output_directory": "build"
     }
 }
