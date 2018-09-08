@@ -142,6 +142,10 @@
   \faTwitter & #1\\
 }
 
+\newcommand{\website}[1]{
+  \faExternalLink & #1\\
+}
+
 \newcommand{\stackoverflow}[1]{
   \faKeyboard & #1\\
 }
